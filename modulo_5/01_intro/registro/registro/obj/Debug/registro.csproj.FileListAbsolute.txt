@@ -1,0 +1,9 @@
+C:\xampp\htdocs\registro\registro\bin\Debug\registro.exe.config
+C:\xampp\htdocs\registro\registro\bin\Debug\registro.exe
+C:\xampp\htdocs\registro\registro\bin\Debug\registro.pdb
+C:\xampp\htdocs\registro\registro\obj\Debug\registro.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\registro\registro\obj\Debug\registro.Form1.resources
+C:\xampp\htdocs\registro\registro\obj\Debug\registro.Properties.Resources.resources
+C:\xampp\htdocs\registro\registro\obj\Debug\registro.csproj.GenerateResource.Cache
+C:\xampp\htdocs\registro\registro\obj\Debug\registro.exe
+C:\xampp\htdocs\registro\registro\obj\Debug\registro.pdb
