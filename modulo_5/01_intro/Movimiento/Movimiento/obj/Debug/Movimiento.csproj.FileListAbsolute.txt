@@ -16,3 +16,12 @@ C:\xampp\htdocs\programacion2019_criss\modulo_5\01_intro\Movimiento\Movimiento\o
 C:\xampp\htdocs\programacion2019_criss\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.Form1.resources
 C:\xampp\htdocs\programacion2019_criss\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.Properties.Resources.resources
 C:\xampp\htdocs\programacion2019_criss\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.csproj.GenerateResource.Cache
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\bin\Debug\Movimiento.exe.config
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.exe
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.Form1.resources
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.Properties.Resources.resources
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.csproj.GenerateResource.Cache
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\bin\Debug\Movimiento.exe
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\bin\Debug\Movimiento.pdb
+C:\xampp\htdocs\C#\modulo_5\01_intro\Movimiento\Movimiento\obj\Debug\Movimiento.pdb

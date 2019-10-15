@@ -45,11 +45,11 @@ namespace Movimiento
 
                 var centroX = ((anchoPadre + anchoHijo) / 2) - margenX;
 
-                var altoPadre = label3.Height;
-                var altoHijo = label1.Height;
+                var alturaPadre = label3.Height;
+                var alturaHijo = label1.Height;
                 var margenY = label3.Location.Y;
 
-                var centroY = ((altoPadre + altoHijo) / 2) - margenY;
+                var centroY = ((alturaPadre + alturaHijo) / 2) - margenY;
 
                 // Centrado absoluto (al formulario)
                 anchoPadre = this.Width;
@@ -69,7 +69,25 @@ namespace Movimiento
             // Cambiar color
             if (keyValue == 67)
             {
-                MessageBox.Show("Cambiando color...");
+                //MessageBox.Show("Cambiando color...");
+
+                var random = new Random();
+
+                var numeroAleatorio = random.Next(0, 5);
+
+                // Listado de colores
+
+                //Color[] colores = { Color.Blue, Color.Red, Color.Green, Color.Pink, Color.SaddleBrown };
+
+                //label1.BackColor = colores[numeroAleatorio];
+
+                var Red = random.Next(255);
+                var Green = random.Next(255);
+                var Blue = random.Next(255);
+
+                label1.BackColor = Color.FromArgb(Red, Green, Blue);
+
+               //  MessageBox.Show(colores[numeroAleatorio].ToString());
             }
 
            
